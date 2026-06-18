@@ -1,4 +1,4 @@
-# Retail Sales Analytics Dashboard
+# Retail Sales Analytics Dashboard - NOT FINISHED
 
 An interactive Power BI dashboard analyzing ~540,000 transaction records from the UCI Online Retail dataset, built on a custom star schema with DAX-driven KPIs for executive-level sales reporting.
 
